@@ -1,0 +1,18 @@
+# Site settings
+title: Barebones
+subtitle: A barebone GitHub Pages with static comments
+email: your-email@domain.com
+description: Test
+baseurl: ""
+url: "https://wini3d.github.io/barebones/"
+locale: en
+github_username:  wini3d
+
+# Build settings
+markdown: kramdown
+
+#staticman:
+#  api: "https://staticman3.herokuapp.com/v3/entry/github/vincenttam/TestStaticmanLab/master/comments"
+#  path: "_data/comments/test-slug"
+
+theme: minima
