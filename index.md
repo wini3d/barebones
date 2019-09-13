@@ -17,7 +17,7 @@ title: NorthStack Example Blog
 </div>
 
 <script src="https://cdn.rawgit.com/christian-fei/Simple-Jekyll-Search/master/dest/simple-jekyll-search.min.js"></script>
-    <script type="text/javascript">
+<script type="text/javascript">
       SimpleJekyllSearch({
         searchInput: document.getElementById('search-input'),
         resultsContainer: document.getElementById('results-container'),
@@ -27,4 +27,4 @@ title: NorthStack Example Blog
         limit: 10,
         fuzzy: false
       })
-    </script>
+</script>
