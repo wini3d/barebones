@@ -1,3 +1,8 @@
+---
+layout: home
+permalink: /members/
+---
+
 <ul>
 {% for member in site.data.members %}
   <li>
