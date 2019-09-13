@@ -1,7 +1,7 @@
 ---
 title: Error 404 Not Found
 redirect_from: /foo
-permalink: /404
+permalink: /wow.html
 layout: default
 ---
 
