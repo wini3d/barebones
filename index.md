@@ -17,14 +17,14 @@ title: NorthStack Example Blog
 </div>
 
 <script src="https://cdn.rawgit.com/christian-fei/Simple-Jekyll-Search/master/dest/simple-jekyll-search.min.js"></script>
-<script>
-SimpleJekyllSearch({
-  search-input: document.getElementById('search-input'),
-  resultsContainer: document.getElementById('results-container'),  
-  searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a></li>',
-  noResultsText: 'No results found',
-  limit: 10,
-  fuzzy: false,    
-  json: '/search.json',
-})
-</script>
+    <script type="text/javascript">
+      SimpleJekyllSearch({
+        searchInput: document.getElementById('search-input'),
+        resultsContainer: document.getElementById('results-container'),
+        json: '/search.json',
+        searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a></li>',
+        noResultsText: 'No results found',
+        limit: 10,
+        fuzzy: false
+      })
+    </script>
