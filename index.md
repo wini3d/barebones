@@ -22,8 +22,11 @@ title: NorthStack Example Blog
 <script>
 SimpleJekyllSearch({
   search-input: document.getElementById('search-input'),
-  resultsContainer: document.getElementById('results-container'),
+  resultsContainer: document.getElementById('results-container'),  
+  searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a></li>',
+  noResultsText: 'No results found',
+  limit: 10,
+  fuzzy: false,    
   json: '/search.json',
-  searchResultTemplate: '<li><a href="{{ site.url }}{url}">{title}</a></li>'
 })
 </script>
