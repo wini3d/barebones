@@ -1,5 +1,5 @@
 ---
-redirect_to: foo
+redirect_to: {{ site.url }}
 permalink: /badpage
 layout: default
 ---
