@@ -1,6 +1,6 @@
 ---
 layout: home
-permalink: /members/
+permalink: /members
 ---
 
 <ul>
