@@ -3,7 +3,7 @@ title: Barebones
 subtitle: A barebone GitHub Pages with static comments
 email: your-email@domain.com
 description: Test
-# baseurl: 
+# baseurl: "/barebones"
 # url: "https://wini3d.github.io/barebones/"
 locale: en
 github_username:  wini3d
