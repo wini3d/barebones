@@ -1,5 +1,5 @@
 ---
-redirect_from: /foo
+redirect_to: /foo
 permalink: /badpage
 layout: default
 ---
