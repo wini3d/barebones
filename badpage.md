@@ -1,5 +1,5 @@
 ---
-redirect_to: {{ site.url }}
+redirect_to: /members
 permalink: /badpage
 layout: default
 ---
