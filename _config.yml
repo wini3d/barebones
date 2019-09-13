@@ -16,3 +16,6 @@ markdown: kramdown
 #  path: "_data/comments/test-slug"
 
 theme: minima
+
+plugins:
+  - jekyll-redirect-from
