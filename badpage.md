@@ -1,5 +1,6 @@
 ---
 redirect_from: foo/
+permalink: /badpage
 layout: default
 ---
 
