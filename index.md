@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: default
 title: NorthStack Example Blog
 ---
 
