@@ -16,6 +16,11 @@ title: NorthStack Example Blog
     {% endfor %}
 </div>
 
+
+
+
+
+
 <script src="https://cdn.rawgit.com/christian-fei/Simple-Jekyll-Search/master/dest/simple-jekyll-search.min.js"></script>
 <script type="text/javascript">
       SimpleJekyllSearch({
