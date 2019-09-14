@@ -19,3 +19,4 @@ theme: minima
 
 plugins:
   - jekyll-redirect-from
+  - jemoji  
