@@ -6,6 +6,8 @@ title: NorthStack Example Blog
 <input type="text" id="search-input" placeholder="Search blog posts..">
 <ul id="results-container"></ul>
 
+:+1:
+
 <div class="posts">
     {% for post in site.posts %}
         <article>
